@@ -13,3 +13,4 @@ git status
 git config user.email
 git config user.name
 git commit -m "..."
+git push origin master
